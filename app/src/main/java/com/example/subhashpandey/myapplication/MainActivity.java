@@ -23,6 +23,7 @@ import java.util.List;
 public class MainActivity extends ActionBarActivity {
 
     private String URL = "https://purinayaapp.landolakes.com/api/Products/GetProductDetailById?ProductId=2";
+    String a;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
