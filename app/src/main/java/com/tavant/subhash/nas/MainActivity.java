@@ -9,12 +9,13 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
+import com.example.subhashpandey.myapplication.R;
+
 
 public class MainActivity extends ActionBarActivity {
 
     private Button buttonDone;
     private EditText editTextEID;
-    String string;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
