@@ -14,6 +14,7 @@ public class MainActivity extends ActionBarActivity {
 
     private Button buttonDone;
     private EditText editTextEID;
+    String string;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
