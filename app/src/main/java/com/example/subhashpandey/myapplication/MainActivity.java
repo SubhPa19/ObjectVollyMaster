@@ -14,6 +14,7 @@ import com.android.volley.toolbox.JsonArrayRequest;
 import com.android.volley.toolbox.JsonObjectRequest;
 import com.android.volley.toolbox.Volley;
 import com.google.gson.reflect.TypeToken;
+import com.tavant.subhash.nas.R;
 
 import java.lang.reflect.Type;
 import java.util.ArrayList;
@@ -23,7 +24,6 @@ import java.util.List;
 public class MainActivity extends ActionBarActivity {
 
     private String URL = "https://purinayaapp.landolakes.com/api/Products/GetProductDetailById?ProductId=2";
-    String a;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
