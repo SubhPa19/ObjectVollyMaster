@@ -5,4 +5,11 @@
     <string name="action_settings">Settings</string>
     <string name="servicedesc">This is Service</string>
     <string name="aiddescription">aiddescription</string>
+    <string name="tips_title">Tips Title</string>
+    <string name="tips_des">Tips Description</string>
+    <string name="img_thumb">This is imageThumbnail</string>
+    <string name="title_activity_office365">Office365Activity</string>
+    <string name="o365_app_id_activity_office365">2403fbae-bc36-479b-828c-0910298abadc</string>
+    <string name="o365_name_activity_office365">DHANGKA</string>
+    <string name="fs_url_activity_office365">https://mytenant.sharepoint.com/_api/v1.0</string>
 </resources>
